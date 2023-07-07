@@ -13,7 +13,7 @@ let mailTransporter = mailSender.createTransport(
         service: "gmail",
         auth: {
             user: 'bayodeblessingakinbola@gmail.com',
-            pass: 'B.blessing2'
+            pass: 'Hmmmm'
         }
     }
 );
